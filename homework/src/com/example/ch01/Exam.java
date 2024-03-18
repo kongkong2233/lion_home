@@ -5,5 +5,7 @@ public class Exam {
         System.out.println("숙제를 하세요^^ ");
 
         System.out.println("숙제 완료!");
+
+        System.out.println("풀리퀘스트 확인");
     }
 }
